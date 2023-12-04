@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "skf.h": "c",
+        "skf_int.h": "c",
+        "gmskf.h": "c",
+        "string.h": "c",
+        "dso.h": "c",
+        "err.h": "c",
+        "ossl_typ.h": "c",
+        "crypto.h": "c"
+    }
+}

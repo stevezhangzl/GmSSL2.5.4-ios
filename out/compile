@@ -1,0 +1,1 @@
+g++ client.c -o client -I./include -L./lib -lcrypto -lssl -Wl,-rpath=./lib
